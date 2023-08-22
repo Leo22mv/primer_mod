@@ -1,5 +1,7 @@
 {
     "item.primer_mod.birra" : "Birra :)",
-    "item.primer_mod.birra.effect.empty" : "Birra",
-    "item.primer_mod.birra.effect.water" : "Birra"
+    "item.primer_mod.birra.effect.empty" : "Birra :)",
+    "item.primer_mod.birra.effect.water" : "Birra :)",
+    "item.primer_mod.birra_rota" : "Birra rota xD",
+    "block.primer_mod.cajon_block" : "Cajón de birra :D"
 }

@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "": {
+            "model" : "primer_mod:block/cajon_block"
+        }
+    }
+}
